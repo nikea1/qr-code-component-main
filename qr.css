@@ -64,7 +64,7 @@ p {
 .main-content{
    color: hsl(218, 44%, 22%);
    font-weight: 700;
-   padding: 0.25em;
+   margin-top: 1em;
 
 }
 
